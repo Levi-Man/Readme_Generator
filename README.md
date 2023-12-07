@@ -2,6 +2,22 @@
 Description
 Automatic Readme Generator - User is asked a series of questions about their project. Once all questions have been answered, a professional REAMDE file is auomatically generated. 
 
+## Table of Contents
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[License](#license)
+
+[Contribution](#contribution)
+
+[Tests](#tests)
+
+[Questions](#questions)
+
+[Screenshot](#screenshot)
+
 ## Installation
 Run node index.js
 
@@ -20,3 +36,5 @@ Testing is currently in the works
 ## Questions
 For any questions or suggestions, please reach me at github.com/Levi-Man or at indra.levi.manahan@gmail.com.
 
+## Screeenshot
+https://github.com/Levi-Man/Readme_Generator/blob/main/Assets/Screenshot%202023-12-07%20171129.png
