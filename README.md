@@ -37,4 +37,4 @@ Testing is currently in the works
 For any questions or suggestions, please reach me at github.com/Levi-Man or at indra.levi.manahan@gmail.com.
 
 ## Screeenshot
-https://github.com/Levi-Man/Readme_Generator/blob/main/Assets/Screenshot%202023-12-07%20171129.png
+![Screenshot of app](/Assets/Screenshot%202023-12-07%20171129.png)
