@@ -38,3 +38,7 @@ For any questions or suggestions, please reach me at github.com/Levi-Man or at i
 
 ## Screeenshot
 ![Screenshot of app](/Assets/Screenshot%202023-12-07%20171129.png)
+
+Video link: https://drive.google.com/file/d/1Fx5VjJlk8-Xo-k740tg7gq6IB8_MuNRq/view
+
+Github repo: https://github.com/Levi-Man/Readme_Generator
