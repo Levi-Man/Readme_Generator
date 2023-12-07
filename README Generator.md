@@ -2,7 +2,7 @@
 # README Generator
 
 ## Description
-Automatic Readme Genertor
+Automatic Readme Generator
 
 ## Installation
 Run node index.js
@@ -17,7 +17,7 @@ This project is protected under the MIT license.
 Fork my repo and create a pull request
 
 ## Tests
-TEsting is currently in the works
+Testing is currently being developed
 
 ## Questions
 For any questions or suggestions, please reach me at github.com/Levi-Man or at indra.levi.manahan@gmail.com.

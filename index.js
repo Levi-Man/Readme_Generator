@@ -78,6 +78,20 @@ return `
 ## Description
 ${data.description}
 
+## Table of Contents
+
+[Installation](#installation)
+
+[Usage](#usage)
+
+[License](#license)
+
+[Contribution](#contribution)
+
+[Tests](#tests)
+
+[Questions](#questions)
+
 ## Installation
 ${data.installation}
 
